@@ -1,6 +1,6 @@
-#####################
+###############################################################################################################################
 This Project demonstrates a simple CI/CD strategy in SDLC Process.
-It is built on AWS Infrastructure .......
+It is built on AWS Infrastructure ..............
 
 
 
