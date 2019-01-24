@@ -1,5 +1,12 @@
-# This Project demonstrates a simple CI/CD strategy in SDLC Process.
-## It is built on AWS Infrastructure ..............
+### This Project demonstrates a simple CI/CD strategy in SDLC Process.
+It is built on AWS Infrastructure ..............
+
+**Tools Used**
+**Jenkins**
+
+> github hooks
+
+
 
 
 
